@@ -5,7 +5,7 @@ export default config({
     kind: "cloud",
   },
   cloud: {
-    project: "keystatic-example/astro-example",
+    project: "keystatic-example/astro-keystatic",
   },
   singletons: {
     testimonial: singleton({
