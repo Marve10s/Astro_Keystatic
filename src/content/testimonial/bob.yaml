@@ -1,0 +1,7 @@
+name: Bob
+role: Bob
+content: Bob
+date: 2024-11-13
+isFeatured: true
+rating: 5
+image: src/content/testimonial/bob/image.jpg
